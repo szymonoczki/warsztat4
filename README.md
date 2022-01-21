@@ -26,4 +26,4 @@ ewoifuhfewfi
 weiufhwifhw
 fuewfhewfiw
 
-![Tux, the Linux mascot](c:/users/soczki/desktop/tux.png)
+![Tux, the Linux mascot](C:\Users\soczki\Desktop\tux.png)
