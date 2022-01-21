@@ -25,3 +25,5 @@ ewoifuhfewfi
             return x
 weiufhwifhw
 fuewfhewfiw
+
+![Tux, the Linux mascot](c:/users/soczki/desktop/tux.png)
