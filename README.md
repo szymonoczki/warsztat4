@@ -1,7 +1,9 @@
 # warsztat4
 
 Paragraf 1.
+
 Paragraf 2.
+
 Paragraf 3.
 
 **Pogrubiony Tekst**
@@ -18,12 +20,12 @@ Paragraf 3.
       x=l*l*l
       return x
       
-4hiufewuhgehg
-ewoifuhfewfi
+kod w tekscie
+
         def asd(l):
             x=l*l*l
             return x
-weiufhwifhw
-fuewfhewfiw
 
-![Tux, the Linux mascot](C:\Users\soczki\Desktop\tux.png)
+koniec kodu w tekscie
+
+![Tux, the Linux mascot](lux.jpg)
